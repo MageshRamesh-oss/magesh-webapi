@@ -1,0 +1,7 @@
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\bin\Debug\CallingApi.exe.config
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\bin\Debug\CallingApi.exe
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\bin\Debug\CallingApi.pdb
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\obj\Debug\CallingApi.csprojAssemblyReference.cache
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\obj\Debug\CallingApi.csproj.CoreCompileInputs.cache
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\obj\Debug\CallingApi.exe
+C:\Users\mageshr\source\repos\CallingApi\CallingApi\obj\Debug\CallingApi.pdb
