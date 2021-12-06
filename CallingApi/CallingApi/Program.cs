@@ -12,7 +12,7 @@ namespace CallingApi
         static void Main(string[] args)
         {
             ConsumeEventSync objsync = new ConsumeEventSync();
-            objsync.GetAllEventData();
+          objsync.GetAllEventData();
             Console.ReadKey();
         }
     }
