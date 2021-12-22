@@ -1,0 +1,12 @@
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\bin\Debug\net5.0\Model.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\bin\Debug\net5.0\ref\Model.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.csprojAssemblyReference.cache
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\Model\obj\Debug\net5.0\Model.pdb

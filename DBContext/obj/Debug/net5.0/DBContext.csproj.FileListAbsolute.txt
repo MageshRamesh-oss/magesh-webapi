@@ -1,0 +1,15 @@
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\bin\Debug\net5.0\DBContext.deps.json
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\bin\Debug\net5.0\DBContext.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\bin\Debug\net5.0\ref\DBContext.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\bin\Debug\net5.0\DBContext.pdb
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\bin\Debug\net5.0\Model.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\bin\Debug\net5.0\Model.pdb
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.csprojAssemblyReference.cache
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.AssemblyInfoInputs.cache
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.AssemblyInfo.cs
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.csproj.CopyComplete
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\ref\DBContext.dll
+C:\Users\mageshr\source\repos\DemoWebAPiSolution\DBContext\obj\Debug\net5.0\DBContext.pdb
